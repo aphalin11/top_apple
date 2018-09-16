@@ -1,18 +1,22 @@
+html { 
+    width: 100%; 
+}
+
 .mountain { 
-    width: 90%; 
-    height: 500px; 
+    width: 800px;  
+    height: 700px;
     margin-left: 5%; 
     margin-right: 5%; 
     background-image: url('https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg'); 
     background-repeat: no-repeat; 
-    background-size: cover; 
+    background-size: cover;
+    min-width:700px;
 }
 
 .adverts { 
-    width:90%; 
+    width: 800px; 
     height: 200px; 
     margin-left: 5%; 
-    margin-right: 5%; 
 }
 
 .bott { 
