@@ -1,0 +1,20 @@
+.mountain { 
+    width: 90%; 
+    height: 500px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+    background-image: url('https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg'); 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+
+.adverts { 
+    width:90%; 
+    height: 200px; 
+    margin-left: 5%; 
+    margin-right: 5%; 
+}
+
+.bott { 
+    width: 24.75%; 
+}
